@@ -1,0 +1,10 @@
+C:\Users\Annelaure\Desktop\secu\secu\bin\Debug\netcoreapp2.0\secu.deps.json
+C:\Users\Annelaure\Desktop\secu\secu\bin\Debug\netcoreapp2.0\secu.runtimeconfig.json
+C:\Users\Annelaure\Desktop\secu\secu\bin\Debug\netcoreapp2.0\secu.runtimeconfig.dev.json
+C:\Users\Annelaure\Desktop\secu\secu\bin\Debug\netcoreapp2.0\secu.dll
+C:\Users\Annelaure\Desktop\secu\secu\obj\Debug\netcoreapp2.0\secu.csproj.CoreCompileInputs.cache
+C:\Users\Annelaure\Desktop\secu\secu\obj\Debug\netcoreapp2.0\secu.AssemblyInfoInputs.cache
+C:\Users\Annelaure\Desktop\secu\secu\obj\Debug\netcoreapp2.0\secu.AssemblyInfo.cs
+C:\Users\Annelaure\Desktop\secu\secu\bin\Debug\netcoreapp2.0\secu.pdb
+C:\Users\Annelaure\Desktop\secu\secu\obj\Debug\netcoreapp2.0\secu.dll
+C:\Users\Annelaure\Desktop\secu\secu\obj\Debug\netcoreapp2.0\secu.pdb

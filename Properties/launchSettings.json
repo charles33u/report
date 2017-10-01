@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "secu": {
+      "commandName": "Project",
+      "commandLineArgs": "-a tata tata "
+    }
+  }
+}
